@@ -13,13 +13,13 @@ def about():
 
 @route('/contact')
 @view('contact')
-def ('contact'):
+def contact():
   return{}
 
 # ROUTE FOR STATIC FILE (CSS, images, JS)
-@route ('/static/>filename>')
-def server_static(filename')
-    return static_file(filename):
+@route ('/static/<filename>')
+def server_static(filename):
+    return static_file(filename)
 
 # START SERVER
 if __name__ == "__main__":
