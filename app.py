@@ -19,8 +19,10 @@ def contact():
 # ROUTE FOR STATIC FILE (CSS, images, JS)
 @route ('/static/<filename>')
 def server_static(filename):
-    return static_file(filename)
+    return static_file(filename, root='./static')
 
 # START SERVER
 if __name__ == "__main__":
     run(host = 'localhost', port = 8080, debug=True, reloader=True)
+
+print ('Hello, World')

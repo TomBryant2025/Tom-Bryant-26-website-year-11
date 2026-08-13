@@ -7,10 +7,10 @@
     <nav>
         <a href="/">Home</a>
         <a href="/about">About</a>
-        <a href="/contect">Contace</a>
+        <a href="/contact">Contact</a>
     </nav>
 
-    <h1>Welcome to the home psge </h1>
-    <p>This is the man page of our bottle app.</p>
+    <h1>Welcome</h1>
+    <p>Hi, My name is Tom and Welcome to my home page.</p>
 </body>
 </html>
