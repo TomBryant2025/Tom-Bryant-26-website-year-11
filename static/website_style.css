@@ -1,14 +1,15 @@
 body {
     font-family: Arial;
-    margin: 40px;
+    margin: 20px;
     background-color: #f8f8f8;
     color: #333
 }
 
 nav {
     margin-bottom: 20px;
-    background: #444;
+    background: #1dffe1;
     padding: 10px;
+    height: 30px;
 }
 
 nav a {
@@ -22,6 +23,31 @@ nav a:hover {
 }
 
 h1 {
-    color: #444444;
+    color: #3f3f3f;
 }
 
+body {
+  background: #B6FAAD;
+background: linear-gradient(90deg, rgba(182, 250, 173, 1) 60%, rgba(29, 255, 225, 1) 90%);
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+font-color: 
+}
+
+img {
+   border-radius: 60px;
+}
+
+img {
+  border: 5px solid rgb(255, 105, 105);
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+.showcase {
+    display: grid;
+    grid-template-columns: 50% 33% 33%;
+    align-items: center;
+}

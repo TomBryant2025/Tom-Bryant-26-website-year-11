@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <title>Home Page</title>
-    <link rel = "stylesheet" href = "/static/website_style.css>"
+    <link rel = "stylesheet" href = "/static/website_style.css">
 </head>
 <body>
     <nav>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <title>Contact Page</title>
-    <link rel = "stylesheet" href = "/static\website_style.css>"
+    <link rel = "stylesheet" href = "static\website_style.css">
 </head>
 <body>
     <nav>
@@ -11,6 +11,6 @@
     </nav>
 
     <h1>Welcome</h1>
-    <p>Hi, My name is Tom and Welcome to my home page.</p>
+    <p>Hi, My name is Tom and Welcome to my contact page.</p>
 </body>
 </html>
