@@ -17,8 +17,9 @@
 <div class="showcase">
 <img src="static\camping photo.jpg" alt = "camping">
 <h2> In my free time I enjoy going for runs, playing Golf, and Videogaming.</h2>
-<p> I enjoy camping and spending time outdoors <p>
 </div>
+
+<p> I enjoy camping and spending time outdoors.<p>
 
 </body>
 </html>

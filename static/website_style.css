@@ -46,6 +46,11 @@ img {
   height: auto;
 }
 
+.static\camping photo.jpg {
+  width: 50%;
+  height: auto;
+}
+
 .showcase {
     display: grid;
     grid-template-columns: 50% 33% 33%;
