@@ -46,9 +46,9 @@ img {
   height: auto;
 }
 
-.static\camping photo.jpg {
-  width: 50%;
-  height: auto;
+.static\camping.jpg {
+  width: 100%;
+  height: 100%;
 }
 
 .showcase {
